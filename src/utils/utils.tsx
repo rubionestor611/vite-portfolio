@@ -173,7 +173,7 @@ export const projects = [
     toolsUsed: [
       "Azure CDN", "Cosmos DB", "Azure Functions", "HTML","CSS", "JavaScript"
     ],
-    link: "https://rubionestorresume.azureedge.net/",
+    link: "https://nrubioresume.azureedge.net/",
     github:"https://github.com/rubionestor611/cloudresume",
     youtube:""
   },
@@ -221,7 +221,6 @@ export const projects = [
     github: "https://github.com/rubionestor611/PasswordManager",
     link: "",
   },
-  // workout planner
 ]
 
 export const selfieImage = {img: selfie, alt: "Selfie of Nestor"};
